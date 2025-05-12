@@ -14,7 +14,7 @@
 | Model Architecture   | GPT-like        |
 | Vocabulary Size      | 10,000          |
 | Context Length       | 128 tokens      |
-| Embedding Size       | 256             |
+| Embedding Size       | 768             |
 | Layers               | 2               |
 | Attention Heads      | 8               |
 | Feedforward Dim      | 3072            |
