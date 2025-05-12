@@ -12,6 +12,7 @@
 | Parameter            | Value           |
 |----------------------|-----------------|
 | Model Architecture   | GPT-like        |
+|  parameters          |   ~22M          |
 | Vocabulary Size      | 10,000          |
 | Context Length       | 128 tokens      |
 | Embedding Size       | 768             |
