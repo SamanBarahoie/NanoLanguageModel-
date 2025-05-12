@@ -1,0 +1,59 @@
+Using device: cuda
+GPU: NVIDIA GeForce RTX 3090
+Total number of parameters: 21,955,584
+=== Epoch 1/2 ===
+Training: 100%|██████████| 28000/28000 [26:13<00:00, 17.79it/s, loss=2.18, ppl=8.84]  
+
+In the end of the epoch, total processed 229,376,000.0 tokens
+===============================================================
+sample:: <|endoftext|>Hi Jane, have you seen Alice? I can’t find her anywhere”, said Jack.
+
+The little girl looked around and spotted the most beautiful thing in the whole world!
+
+"Let's have a special coin!" said Jane.
+
+So, Jane and Jack took the coin to their home. They gave it to each other and made sure it was the same as they were.
+
+
+===============================================================
+sample:: <|endoftext|>Max had two dogs. One was white and the other was black. Max walked up the street and saw a kid with a dog. He told the kid, ”I see you have a Brown dog. I also have a big job to do. Why don't you come out and play?"
+
+The kid smiled and ran over to the fence. He wanted to show his mom his new furry friend.
+
+The kid was surprised. He asked Max, "Can I play with you?"
+
+Max said, "Sure!
+===============================================================
+sample:: <|endoftext|>Anne had a piece of candy in her left pocket and a piece of chocolate in her right pocket. Anne’s mom asked her, ”Anne, what is that you have in your left pocket?”?â€ 
+Anne said, â€œI found some delicious, but I have to take it home.â€
+
+Molly smiled and said, â€œYes please!â€ 
+Anne smiled and said, â€œI have a surprise for you!â€<|endoftext|>Once there was a girl named
+===============================================================
+Eval: 100%|██████████| 73023/73023 [23:18<00:00, 52.22it/s]
+Epoch 1 completed in 00:49:32.
+Valid: loss=2.1062, ppl=8.22
+=== Epoch 2/2 ===
+Training: 100%|██████████| 28000/28000 [26:15<00:00, 17.78it/s, loss=2.01, ppl=7.49]
+At the end of the epoch, after processing 647,168 tokens in the last interval
+In the end of the epoch, total processed 229,376,000.0 tokens
+===============================================================
+sample:: <|endoftext|>Hi Jane, have you seen Alice? I can’t find her anywhere”, said Jack.
+
+Jane was so excited. She asked Jack if he could be her friend, and he said yes.
+
+Jane and Jack sat down to have a picnic with the apples. When they were done, Jane asked Jack if he could pick one. Jack said yes and they both took a bite.
+
+Jane
+===============================================================
+sample:: <|endoftext|>Max had two dogs. One was white and the other was black. Max walked up the street and saw a kid with a dog. He told the kid, ”I see you have a Brown dog. I also have a nice dog when I wake up."
+
+The kid said, "That's right, Max. You are so cute. You know how to be dependable and kind. I'm sure we can keep it safe and warm up."
+
+Max smiled and said, "Thank you, kids. I'm glad we
+===============================================================
+sample:: <|endoftext|>Anne had a piece of candy in her left pocket and a piece of chocolate in her right pocket. Anne’s mom asked her, ”Anne, what is that you have in your left pocket?”  happily munched away with the piece of candy, knowing that it was worth it to have been able to take more than to enjoy.<|endoftext|>One day, a little boy named Tim saw a big magnet in his garden. He picked it up and looked at it closely. It was full of shiny metal and had a long handle
+===============================================================
+Eval: 100%|██████████| 73023/73023 [23:16<00:00, 52.28it/s]
+Epoch 2 completed in 00:49:32.
+Valid: loss=1.9443, ppl=6.99
