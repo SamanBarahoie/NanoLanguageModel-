@@ -15,8 +15,8 @@
 | Vocabulary Size      | 10,000          |
 | Context Length       | 128 tokens      |
 | Embedding Size       | 256             |
-| Layers               | 8               |
-| Attention Heads      | 16              |
+| Layers               | 2               |
+| Attention Heads      | 8               |
 | Feedforward Dim      | 3072            |
 | Batch Size           | 64              |
 | Epochs               | 2               |
